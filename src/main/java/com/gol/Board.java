@@ -18,6 +18,7 @@ public class Board {
     private void initialiseBoard() {
         for (int[] row : array) {
             iterateThroughColumns(row);
+            
         }
     }
 
